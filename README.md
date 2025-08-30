@@ -112,9 +112,9 @@ Impian saya adalah membangun perangkat keras saya sendiri dan berkontribusi pada
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdausriawan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="M. Firdaus Riawan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonarta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="M. Firdaus Riawan's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdausriawan&layout=compact&langs_count=10&theme=dracula" alt="M. Firdaus Riawan's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarta&layout=compact&langs_count=10&theme=dracula" alt="M. Firdaus Riawan's Top Languages"/>
 </p>
 
 ---
